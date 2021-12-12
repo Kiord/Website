@@ -22,8 +22,8 @@ title: Glenn Kerbiriou
 email: glenn.kerbiriou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website !
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gk.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://kiord.github.io/Website/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kiord
 github_username:  kiord
 
